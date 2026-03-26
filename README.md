@@ -12,6 +12,7 @@ This repository includes hands-on examples of:
 - Indentation & Syntax
 - Mutable vs Immutable Objects
 - List, Tuple, Set, Dictionary
+- List comprehension & Dict comprehension
 - Lambda Function
 - *args and **kwargs
 - Exception Handling
