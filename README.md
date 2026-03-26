@@ -22,8 +22,11 @@ This repository includes hands-on examples of:
 ---
 
 # 📂 File Structure
-assets
+
+```bash
+assets/
 ├── screenshot.png
+
 Python_Basics/
 │
 ├── args_kwargs.py
@@ -37,6 +40,7 @@ Python_Basics/
 ├── python.py
 ├── variable_type.py
 └── with_statement.py
+```
 
 ---
 
@@ -49,7 +53,7 @@ Python_Basics/
 
 # 🛠️ How to Run
 Clone the repository:
-- git clone https://github.com/mamun-2025/python_preparationpython_preparation.git
+- git clone https://github.com/mamun-2025/python_preparation
 
 Navigate to the folder:
 - cd python_preparation/Python_Basics
@@ -81,7 +85,7 @@ If you find this helpful, consider giving it a ⭐ on GitHub!
 ---
 
 # 📸 Screenshots
-![Python Basics Screenshot](assets/screenshot.png)
+![Python Basics Screenshot](assets/screenshots.png)
 
 ---
 
