@@ -15,4 +15,3 @@ if x > 5:
 x = 10 
 if x > 5:
 # print("x is greater than 5") # This will raise an IndentationError
-

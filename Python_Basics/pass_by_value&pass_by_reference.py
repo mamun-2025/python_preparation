@@ -11,7 +11,7 @@ def change_list(list):
    list.append(4)
 
 my_list = [1, 2, 3]
-change_list = (my_list)
+change_list(my_list)
 print(my_list) 
 
 # Immutable 
@@ -22,6 +22,11 @@ def change_string(string):
 my_string = "Hello"
 print(change_string(my_string))
 print(my_string)
+
+my_tuple = (1, 2, 3)
+new_tuple = my_tuple + (4, )
+print(f"Original Tuple: {my_tuple}")
+print(f"New Tuple: {new_tuple}")
 
 
 ################################################

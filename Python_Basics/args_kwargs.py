@@ -75,4 +75,3 @@ def log(message, *args, **kwargs):
       print("Meta Information:")
 
 log("User logged in", 123, 321, name="Mamun", role="junior_backend_developer", location="Bashundhara Residential Area")
-
